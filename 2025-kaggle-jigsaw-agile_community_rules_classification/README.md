@@ -1,6 +1,6 @@
 # Approach Overview and Key Learnings
 
-**Kaggle - Jigsaw - Agile Community Rules Classification**
+**Jigsaw - Agile Community Rules Classification**
 
 The competition provided a dataset where each row included a Reddit comment, its subreddit, one community rule (with duplicates of positive and negative examples), and the task was to predict whether the comment violated the given rule, with the test set containing new examples and rules but no new subreddits.
 

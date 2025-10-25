@@ -1,6 +1,6 @@
 # Approach Overview and Key Learnings
 
-**Kaggle - Drawing with LLMs**
+**RSNA - Intracranial Aneurysm Detection**
 
 
 
