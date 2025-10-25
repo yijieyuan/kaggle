@@ -1,1 +1,1 @@
-# kaggle
+This repository records solutions, summaries, and lessons learned from Kaggle competitions, along with reusable code snippets and useful modules.

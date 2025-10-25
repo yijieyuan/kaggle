@@ -1,6 +1,8 @@
 # Approach Overview and Key Learnings
 
-**This is a rough summary from long after the competition ended):**
+**Kaggle - Drawing with LLMs**
+
+This is a rough summary from long after the competition ended):
 
 1. Initially spent time figuring out how to run inference in Kaggle's GPU environment, such as SDXL and FLUX, which required running inference in segments and offloading to GPU.
 2. Later experimented with FLUX combined with prompt engineering, but discovered that prompt engineering had limited impact—the model's capabilities matter much more.
